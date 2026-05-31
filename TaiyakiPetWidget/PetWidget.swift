@@ -113,6 +113,7 @@ struct WidgetStatMini: View {
     }
 }
 
+@main
 struct PetWidget: Widget {
     let kind: String = "TaiyakiPetWidget"
 
